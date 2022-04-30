@@ -44,16 +44,14 @@ label:hover ~ input:checked ~ label{
 }
 
 ul.thumb{
-    margin: 0 auto;
-    padding: 0;
+    margin:0 auto;
+    padding:0;
     float: left;
 }
 
 ul.thumb li{
     list-style: none;
     margin: 10px;
-    position: absolute;
-    bottom: 0px;
 }
 
 ul.thumb li img{
